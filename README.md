@@ -17,12 +17,7 @@ A comprehensive hotel management system built with Next.js, React, Sanity.io, Ta
 - **Deployment**: Seamless deployment to Vercel.
 - **And more...**: Additional features to enhance user experience and functionality.
 
-## Screenshots
 
-<!-- Add screenshots here -->
-<!-- ![Screenshot](url) -->
-
-## Getting Started
 
 ### Prerequisites
 
